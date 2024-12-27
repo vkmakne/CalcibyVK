@@ -1,0 +1,64 @@
+# Node modules
+node_modules/
+
+# Expo specific
+.expo/
+.expo-shared/
+
+# Build directories
+android/build/
+ios/build/
+
+# Pods (iOS)
+ios/Pods/
+
+# Xcode derived data
+ios/.build/
+
+# React Native packager
+.rncache/
+*.log
+
+# MacOS specific
+.DS_Store
+
+# IDE directories and files
+.idea/
+.vscode/
+
+# TypeScript compiled files
+*.tsbuildinfo
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React Native packager logs
+*.metro
+
+# Test results
+coverage/
+
+# Environment files
+.env
+.env.* 
+
+# Optional npm cache
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# JetBrains IDEs
+.idea/
+
+# Mac specific files
+*.swp
+
+# Android Studio specific
+.idea/
+
+# File and directories from the OS (Windows/Mac)
+Thumbs.db
+Desktop.ini
